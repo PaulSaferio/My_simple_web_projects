@@ -1,9 +1,9 @@
-make sure you have installed xampp ow wamp in your computer
+make sure you have installed xampp ow wamp in your computer or any web server
 
 copy the whole folder to C:\xampp\httdocs\ if you have xampp and C:\wamp64\www\ if you have wamp
 
 after running the wamp or xampp app go to the brouser and type Localhost.... then create a new database with the name exam
 then search for the import option and upload the .sql file in this folder.
 
-To run the system go to the brouser adress bar and type Localhost/simple_exam_schedule_system/
+To run the system go to the browser adress bar and type Localhost (ip address)/simple_exam_schedule_system/
 @author: PaulSaferio (Pamso) <owakipaul@gmail.com>
